@@ -50,6 +50,7 @@ The experiment settings are stored in `configs/experiment_config.yaml`, allowing
 ```
 
 ## Project Structure
+
 ```text
 
 LinearRegressionArchitecture_Workshop/
@@ -192,7 +193,7 @@ Python dependencies and their versions are recorded in `requirements.txt` so the
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/shainaulakh/Linear-Regression-Project.git>
+git clone <https://github.com/shainaulakh/LinearRegressionArchitecture_Workshop.git>
 cd LinearRegressionArchitecture_Workshop
 ```
 
