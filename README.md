@@ -42,11 +42,15 @@ src/evaluation.py
         ▼
 experiments/results.csv
 
+
 The notebooks use these modular Python components instead of containing the entire machine learning workflow directly inside notebook cells.
 
 The experiment settings are stored in `configs/experiment_config.yaml`, allowing parameters such as the selected feature, train/test split, learning rate, and number of iterations to be changed without modifying the model implementation.
 
+```
+
 ## Project Structure
+```text
 
 LinearRegressionArchitecture_Workshop/
 │
@@ -77,6 +81,7 @@ LinearRegressionArchitecture_Workshop/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## Data Sources
 
@@ -187,7 +192,7 @@ Python dependencies and their versions are recorded in `requirements.txt` so the
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/shainaulakh/Linear-Regression-Project.git>
 cd LinearRegressionArchitecture_Workshop
 ```
 
